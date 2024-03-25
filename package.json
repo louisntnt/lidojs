@@ -1,0 +1,8 @@
+{
+  "name": "@lidojs",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:louisntnt/lidojs.git",
+  "author": "brian.h <anhkun123456@gmail.com>",
+  "license": "MIT"
+}
